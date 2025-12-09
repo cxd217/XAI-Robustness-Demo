@@ -50,3 +50,17 @@ We compute the importance map by utilizing the gradients of the target class flo
 
 ### Running on Google Colab
 The easiest way to run this demo is via Google Colab. Click the badge at the top of this README.
+
+### Local Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/cxd217/XAI-Robustness-Demo.git
+2. Install dependencies:
+   ```bash
+   pip install torch torchvision matplotlib numpy opencv-python pillow
+
+## 👨‍💻 About Me
+
+* **Author**: Xudong Chen
+* **Institution**: Fuzhou University (FZU), Major in Artificial Intelligence to The University of Sydney, Major in Computer Science
+* **Contact**: xche0923@uni.sydney.edu.au
