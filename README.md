@@ -1,7 +1,7 @@
 # XAI-Robustness-Demo
 # Visualizing Adversarial Robustness: ResNet50 & Grad-CAM
 
-[![Open In Colab](https://colab.research.google.com/drive/1qvWXfeJ1osuxVUj-kkx1bq8GZzEMVsw0?usp=drive_link]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qvWXfeJ1osuxVUj-kkx1bq8GZzEMVsw0?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)
 
